@@ -1,0 +1,10 @@
+let nombre = 'Angel'
+let apellido = 'López'
+let estudiante = `${nombre} ${apellido}`
+let estudianteMayus = estudiante.toUpperCase()
+let estudianteMinus = estudiante.toLowerCase()
+let count_word = estudiante.length
+let first_letter = nombre[0]
+let last_letter = apellido[4]
+let trimSpace = estudiante.trim()
+let check_name = estudiante.includes('Angel')

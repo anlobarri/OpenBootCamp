@@ -1,0 +1,15 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Primer proyecto de OpenBootcamp con JS",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node hola_mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "Angel Lopez",
+  "license": "ISC"
+}

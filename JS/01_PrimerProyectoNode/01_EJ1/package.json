@@ -1,0 +1,12 @@
+{
+  "name": "ej1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "mensaje": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel López",
+  "license": "ISC"
+}
